@@ -2,9 +2,8 @@
 All resources related to this WIDS will be uploaded here. For each week, we will provide resources for theory and pseudocdoes for standard algorithms. We will also recommned some problems for you to try for mostly all weeks so you can feel confident about using these data structures. The following is a rough week by week plan for this project, subject to change. 
 ### Week 1 : Implementing and using general trees. 
 ### Week 2 : Binary search trees, Heaps and B-trees 
-#### Problems  : 
+#### Problems  :  added the  solutions for these in a separate folder
 #### 1.LC 94
-
 #### 2.LC 101
 #### 3.LC 108
 #### 4.LC 110
